@@ -4,7 +4,7 @@ Write up for how the Dialogue system for '3D Blocks...' was made (Year 2 Semeste
 # 1) The Scripts
 For this dialogue system, we need to have 5 different scripts intertwined with each other; DialogueCall, DialogueUI, EnableDialogue, Person and TypewriterEffect.
 
-##2) DialogueCall
+#2) DialogueCall
 To start with on this script, we need the following components:
 
 ![image](https://user-images.githubusercontent.com/91538155/180027752-a2873b3c-8863-41ad-8a66-49f7b3bad639.png)
